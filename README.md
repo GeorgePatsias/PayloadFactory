@@ -16,6 +16,7 @@ API calling methodologies using:
 * Process Hollowing
 * Process Injection
 * Dynamic Process Injection
+* Suspended Thread Injection
 
 ## 🔐 Encryption
 * AES (Advanced Encryption Standard)
