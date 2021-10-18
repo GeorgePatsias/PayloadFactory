@@ -1,0 +1,19 @@
+C:\Users\georg\Desktop\Hell\Payloads - Yiannis\Payload\ProcessInjection\bin\x64\Release\ProcessInjection.exe.config
+C:\Users\georg\Desktop\Hell\Payloads - Yiannis\Payload\ProcessInjection\bin\x64\Release\ProcessInjection.exe
+C:\Users\georg\Desktop\Hell\Payloads - Yiannis\Payload\ProcessInjection\bin\x64\Release\ProcessInjection.pdb
+C:\Users\georg\Desktop\Hell\Payloads - Yiannis\Payload\ProcessInjection\obj\x64\Release\ProcessInjection.csproj.CoreCompileInputs.cache
+C:\Users\georg\Desktop\Hell\Payloads - Yiannis\Payload\ProcessInjection\obj\x64\Release\ProcessInjection.exe
+C:\Users\georg\Desktop\Hell\Payloads - Yiannis\Payload\ProcessInjection\obj\x64\Release\ProcessInjection.pdb
+C:\Users\georg\Desktop\Hell\Payload FACTORY\Payload\ProcessInjection\bin\x64\Release\ProcessInjection.exe.config
+C:\Users\georg\Desktop\Hell\Payload FACTORY\Payload\ProcessInjection\bin\x64\Release\ProcessInjection.exe
+C:\Users\georg\Desktop\Hell\Payload FACTORY\Payload\ProcessInjection\bin\x64\Release\ProcessInjection.pdb
+C:\Users\georg\Desktop\Hell\Payload FACTORY\Payload\ProcessInjection\obj\x64\Release\ProcessInjection.csproj.AssemblyReference.cache
+C:\Users\georg\Desktop\Hell\Payload FACTORY\Payload\ProcessInjection\obj\x64\Release\ProcessInjection.csproj.CoreCompileInputs.cache
+C:\Users\georg\Desktop\Hell\Payload FACTORY\Payload\ProcessInjection\obj\x64\Release\ProcessInjection.exe
+C:\Users\georg\Desktop\Hell\Payload FACTORY\Payload\ProcessInjection\obj\x64\Release\ProcessInjection.pdb
+C:\Users\georg\Desktop\Hell\OSEP\Payload\ProcessInjection\bin\x64\Release\ProcessInjection.exe.config
+C:\Users\georg\Desktop\Hell\OSEP\Payload\ProcessInjection\bin\x64\Release\ProcessInjection.exe
+C:\Users\georg\Desktop\Hell\OSEP\Payload\ProcessInjection\bin\x64\Release\ProcessInjection.pdb
+C:\Users\georg\Desktop\Hell\OSEP\Payload\ProcessInjection\obj\x64\Release\ProcessInjection.csproj.CoreCompileInputs.cache
+C:\Users\georg\Desktop\Hell\OSEP\Payload\ProcessInjection\obj\x64\Release\ProcessInjection.exe
+C:\Users\georg\Desktop\Hell\OSEP\Payload\ProcessInjection\obj\x64\Release\ProcessInjection.pdb

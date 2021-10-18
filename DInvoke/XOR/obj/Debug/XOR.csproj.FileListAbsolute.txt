@@ -1,0 +1,7 @@
+C:\Users\georg\Desktop\Hell\Payloads - Yiannis\Payload\XOR\bin\Debug\XOR.exe.config
+C:\Users\georg\Desktop\Hell\Payloads - Yiannis\Payload\XOR\bin\Debug\XOR.exe
+C:\Users\georg\Desktop\Hell\Payloads - Yiannis\Payload\XOR\bin\Debug\XOR.pdb
+C:\Users\georg\Desktop\Hell\Payloads - Yiannis\Payload\XOR\obj\Debug\XOR.csproj.AssemblyReference.cache
+C:\Users\georg\Desktop\Hell\Payloads - Yiannis\Payload\XOR\obj\Debug\XOR.csproj.CoreCompileInputs.cache
+C:\Users\georg\Desktop\Hell\Payloads - Yiannis\Payload\XOR\obj\Debug\XOR.exe
+C:\Users\georg\Desktop\Hell\Payloads - Yiannis\Payload\XOR\obj\Debug\XOR.pdb

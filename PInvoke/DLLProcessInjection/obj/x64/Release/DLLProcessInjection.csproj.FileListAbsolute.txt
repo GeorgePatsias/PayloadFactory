@@ -1,0 +1,15 @@
+C:\Users\georg\Desktop\Hell\Payloads - Yiannis\Payload\DLLProcessInjection\bin\x64\Release\DLLProcessInjection.dll
+C:\Users\georg\Desktop\Hell\Payloads - Yiannis\Payload\DLLProcessInjection\bin\x64\Release\DLLProcessInjection.pdb
+C:\Users\georg\Desktop\Hell\Payloads - Yiannis\Payload\DLLProcessInjection\obj\x64\Release\DLLProcessInjection.csproj.CoreCompileInputs.cache
+C:\Users\georg\Desktop\Hell\Payloads - Yiannis\Payload\DLLProcessInjection\obj\x64\Release\DLLProcessInjection.dll
+C:\Users\georg\Desktop\Hell\Payloads - Yiannis\Payload\DLLProcessInjection\obj\x64\Release\DLLProcessInjection.pdb
+C:\Users\georg\Desktop\Hell\Payload FACTORY\Payload\DLLProcessInjection\bin\x64\Release\DLLProcessInjection.dll
+C:\Users\georg\Desktop\Hell\Payload FACTORY\Payload\DLLProcessInjection\bin\x64\Release\DLLProcessInjection.pdb
+C:\Users\georg\Desktop\Hell\Payload FACTORY\Payload\DLLProcessInjection\obj\x64\Release\DLLProcessInjection.csproj.CoreCompileInputs.cache
+C:\Users\georg\Desktop\Hell\Payload FACTORY\Payload\DLLProcessInjection\obj\x64\Release\DLLProcessInjection.dll
+C:\Users\georg\Desktop\Hell\Payload FACTORY\Payload\DLLProcessInjection\obj\x64\Release\DLLProcessInjection.pdb
+C:\Users\georg\Desktop\Hell\OSEP\Payload\DLLProcessInjection\bin\x64\Release\DLLProcessInjection.dll
+C:\Users\georg\Desktop\Hell\OSEP\Payload\DLLProcessInjection\bin\x64\Release\DLLProcessInjection.pdb
+C:\Users\georg\Desktop\Hell\OSEP\Payload\DLLProcessInjection\obj\x64\Release\DLLProcessInjection.csproj.CoreCompileInputs.cache
+C:\Users\georg\Desktop\Hell\OSEP\Payload\DLLProcessInjection\obj\x64\Release\DLLProcessInjection.dll
+C:\Users\georg\Desktop\Hell\OSEP\Payload\DLLProcessInjection\obj\x64\Release\DLLProcessInjection.pdb

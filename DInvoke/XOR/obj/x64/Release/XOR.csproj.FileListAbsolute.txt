@@ -1,0 +1,34 @@
+C:\Users\georg\Desktop\Hell\Payloads - Yiannis\Payload\XOR\bin\x64\Release\XOR.exe.config
+C:\Users\georg\Desktop\Hell\Payloads - Yiannis\Payload\XOR\bin\x64\Release\XOR.exe
+C:\Users\georg\Desktop\Hell\Payloads - Yiannis\Payload\XOR\bin\x64\Release\XOR.pdb
+C:\Users\georg\Desktop\Hell\Payloads - Yiannis\Payload\XOR\obj\x64\Release\XOR.csproj.CoreCompileInputs.cache
+C:\Users\georg\Desktop\Hell\Payloads - Yiannis\Payload\XOR\obj\x64\Release\XOR.exe
+C:\Users\georg\Desktop\Hell\Payloads - Yiannis\Payload\XOR\obj\x64\Release\XOR.pdb
+C:\Users\georg\Desktop\Hell\Payload FACTORY\Payload\XOR\bin\x64\Release\XOR.exe.config
+C:\Users\georg\Desktop\Hell\Payload FACTORY\Payload\XOR\bin\x64\Release\XOR.exe
+C:\Users\georg\Desktop\Hell\Payload FACTORY\Payload\XOR\bin\x64\Release\XOR.pdb
+C:\Users\georg\Desktop\Hell\Payload FACTORY\Payload\XOR\obj\x64\Release\XOR.csproj.AssemblyReference.cache
+C:\Users\georg\Desktop\Hell\Payload FACTORY\Payload\XOR\obj\x64\Release\XOR.csproj.CoreCompileInputs.cache
+C:\Users\georg\Desktop\Hell\Payload FACTORY\Payload\XOR\obj\x64\Release\XOR.exe
+C:\Users\georg\Desktop\Hell\Payload FACTORY\Payload\XOR\obj\x64\Release\XOR.pdb
+C:\Users\georg\Desktop\Hell\OSEP\Payload\XOR\bin\x64\Release\XOR.exe.config
+C:\Users\georg\Desktop\Hell\OSEP\Payload\XOR\bin\x64\Release\XOR.exe
+C:\Users\georg\Desktop\Hell\OSEP\Payload\XOR\bin\x64\Release\XOR.pdb
+C:\Users\georg\Desktop\Hell\OSEP\Payload\XOR\obj\x64\Release\XOR.csproj.CoreCompileInputs.cache
+C:\Users\georg\Desktop\Hell\OSEP\Payload\XOR\obj\x64\Release\XOR.exe
+C:\Users\georg\Desktop\Hell\OSEP\Payload\XOR\obj\x64\Release\XOR.pdb
+C:\Users\georg\Desktop\Hell\OSEP\Payload\XOR\obj\x64\Release\XOR.csproj.AssemblyReference.cache
+C:\Users\georg\Desktop\OSEP\Payload Factory\XOR\bin\x64\Release\XOR.exe.config
+C:\Users\georg\Desktop\OSEP\Payload Factory\XOR\bin\x64\Release\XOR.exe
+C:\Users\georg\Desktop\OSEP\Payload Factory\XOR\bin\x64\Release\XOR.pdb
+C:\Users\georg\Desktop\OSEP\Payload Factory\XOR\obj\x64\Release\XOR.csproj.CoreCompileInputs.cache
+C:\Users\georg\Desktop\OSEP\Payload Factory\XOR\obj\x64\Release\XOR.exe
+C:\Users\georg\Desktop\OSEP\Payload Factory\XOR\obj\x64\Release\XOR.pdb
+C:\Users\georg\Desktop\OSEP\Payload Factory\XOR\obj\x64\Release\XOR.csproj.AssemblyReference.cache
+C:\Users\georg\Desktop\Payload Factory\XOR\bin\x64\Release\XOR.exe.config
+C:\Users\georg\Desktop\Payload Factory\XOR\bin\x64\Release\XOR.exe
+C:\Users\georg\Desktop\Payload Factory\XOR\bin\x64\Release\XOR.pdb
+C:\Users\georg\Desktop\Payload Factory\XOR\obj\x64\Release\XOR.csproj.AssemblyReference.cache
+C:\Users\georg\Desktop\Payload Factory\XOR\obj\x64\Release\XOR.csproj.CoreCompileInputs.cache
+C:\Users\georg\Desktop\Payload Factory\XOR\obj\x64\Release\XOR.exe
+C:\Users\georg\Desktop\Payload Factory\XOR\obj\x64\Release\XOR.pdb

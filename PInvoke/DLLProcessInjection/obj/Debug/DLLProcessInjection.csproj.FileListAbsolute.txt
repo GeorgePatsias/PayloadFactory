@@ -1,0 +1,5 @@
+C:\Users\georg\Desktop\Hell\Payloads - Yiannis\Payload\DLLProcessInjection\bin\Debug\DLLProcessInjection.dll
+C:\Users\georg\Desktop\Hell\Payloads - Yiannis\Payload\DLLProcessInjection\bin\Debug\DLLProcessInjection.pdb
+C:\Users\georg\Desktop\Hell\Payloads - Yiannis\Payload\DLLProcessInjection\obj\Debug\DLLProcessInjection.csproj.CoreCompileInputs.cache
+C:\Users\georg\Desktop\Hell\Payloads - Yiannis\Payload\DLLProcessInjection\obj\Debug\DLLProcessInjection.dll
+C:\Users\georg\Desktop\Hell\Payloads - Yiannis\Payload\DLLProcessInjection\obj\Debug\DLLProcessInjection.pdb

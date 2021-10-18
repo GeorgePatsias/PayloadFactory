@@ -1,0 +1,7 @@
+C:\Users\georg\Desktop\Hell\Payloads - Yiannis\Payload\DynamicProcessInjection\bin\Debug\DynamicProcessInjection.exe.config
+C:\Users\georg\Desktop\Hell\Payloads - Yiannis\Payload\DynamicProcessInjection\bin\Debug\DynamicProcessInjection.exe
+C:\Users\georg\Desktop\Hell\Payloads - Yiannis\Payload\DynamicProcessInjection\bin\Debug\DynamicProcessInjection.pdb
+C:\Users\georg\Desktop\Hell\Payloads - Yiannis\Payload\DynamicProcessInjection\obj\Debug\DynamicProcessInjection.csproj.AssemblyReference.cache
+C:\Users\georg\Desktop\Hell\Payloads - Yiannis\Payload\DynamicProcessInjection\obj\Debug\DynamicProcessInjection.csproj.CoreCompileInputs.cache
+C:\Users\georg\Desktop\Hell\Payloads - Yiannis\Payload\DynamicProcessInjection\obj\Debug\DynamicProcessInjection.exe
+C:\Users\georg\Desktop\Hell\Payloads - Yiannis\Payload\DynamicProcessInjection\obj\Debug\DynamicProcessInjection.pdb

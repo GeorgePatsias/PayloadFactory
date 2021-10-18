@@ -1,0 +1,6 @@
+C:\Users\georg\Desktop\Hell\Payloads - Yiannis\Payload\ProcessInjection\bin\Release\ProcessInjection.exe.config
+C:\Users\georg\Desktop\Hell\Payloads - Yiannis\Payload\ProcessInjection\bin\Release\ProcessInjection.exe
+C:\Users\georg\Desktop\Hell\Payloads - Yiannis\Payload\ProcessInjection\bin\Release\ProcessInjection.pdb
+C:\Users\georg\Desktop\Hell\Payloads - Yiannis\Payload\ProcessInjection\obj\Release\ProcessInjection.csproj.CoreCompileInputs.cache
+C:\Users\georg\Desktop\Hell\Payloads - Yiannis\Payload\ProcessInjection\obj\Release\ProcessInjection.exe
+C:\Users\georg\Desktop\Hell\Payloads - Yiannis\Payload\ProcessInjection\obj\Release\ProcessInjection.pdb

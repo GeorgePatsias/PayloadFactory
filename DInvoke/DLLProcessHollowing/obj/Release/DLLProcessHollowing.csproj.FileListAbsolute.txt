@@ -1,0 +1,5 @@
+C:\Users\georg\Desktop\Hell\Payloads - Yiannis\Payload\DLLProcessHollowing\bin\Release\DLLProcessHollowing.dll
+C:\Users\georg\Desktop\Hell\Payloads - Yiannis\Payload\DLLProcessHollowing\bin\Release\DLLProcessHollowing.pdb
+C:\Users\georg\Desktop\Hell\Payloads - Yiannis\Payload\DLLProcessHollowing\obj\Release\DLLProcessHollowing.csproj.CoreCompileInputs.cache
+C:\Users\georg\Desktop\Hell\Payloads - Yiannis\Payload\DLLProcessHollowing\obj\Release\DLLProcessHollowing.dll
+C:\Users\georg\Desktop\Hell\Payloads - Yiannis\Payload\DLLProcessHollowing\obj\Release\DLLProcessHollowing.pdb

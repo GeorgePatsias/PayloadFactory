@@ -1,0 +1,25 @@
+C:\Users\georg\Desktop\Hell\Payloads - Yiannis\Payload\DLLProcessHollowing\bin\x64\Release\DLLProcessHollowing.dll
+C:\Users\georg\Desktop\Hell\Payloads - Yiannis\Payload\DLLProcessHollowing\bin\x64\Release\DLLProcessHollowing.pdb
+C:\Users\georg\Desktop\Hell\Payloads - Yiannis\Payload\DLLProcessHollowing\obj\x64\Release\DLLProcessHollowing.csproj.CoreCompileInputs.cache
+C:\Users\georg\Desktop\Hell\Payloads - Yiannis\Payload\DLLProcessHollowing\obj\x64\Release\DLLProcessHollowing.dll
+C:\Users\georg\Desktop\Hell\Payloads - Yiannis\Payload\DLLProcessHollowing\obj\x64\Release\DLLProcessHollowing.pdb
+C:\Users\georg\Desktop\Hell\Payload FACTORY\Payload\DLLProcessHollowing\bin\x64\Release\DLLProcessHollowing.dll
+C:\Users\georg\Desktop\Hell\Payload FACTORY\Payload\DLLProcessHollowing\bin\x64\Release\DLLProcessHollowing.pdb
+C:\Users\georg\Desktop\Hell\Payload FACTORY\Payload\DLLProcessHollowing\obj\x64\Release\DLLProcessHollowing.csproj.CoreCompileInputs.cache
+C:\Users\georg\Desktop\Hell\Payload FACTORY\Payload\DLLProcessHollowing\obj\x64\Release\DLLProcessHollowing.dll
+C:\Users\georg\Desktop\Hell\Payload FACTORY\Payload\DLLProcessHollowing\obj\x64\Release\DLLProcessHollowing.pdb
+C:\Users\georg\Desktop\Hell\OSEP\Payload\DLLProcessHollowing\bin\x64\Release\DLLProcessHollowing.dll
+C:\Users\georg\Desktop\Hell\OSEP\Payload\DLLProcessHollowing\bin\x64\Release\DLLProcessHollowing.pdb
+C:\Users\georg\Desktop\Hell\OSEP\Payload\DLLProcessHollowing\obj\x64\Release\DLLProcessHollowing.csproj.CoreCompileInputs.cache
+C:\Users\georg\Desktop\Hell\OSEP\Payload\DLLProcessHollowing\obj\x64\Release\DLLProcessHollowing.dll
+C:\Users\georg\Desktop\Hell\OSEP\Payload\DLLProcessHollowing\obj\x64\Release\DLLProcessHollowing.pdb
+C:\Users\georg\Desktop\OSEP\Payload Factory\DLLProcessHollowing\obj\x64\Release\DLLProcessHollowing.csproj.CoreCompileInputs.cache
+C:\Users\georg\Desktop\OSEP\Payload Factory\DLLProcessHollowing\bin\x64\Release\DLLProcessHollowing.dll
+C:\Users\georg\Desktop\OSEP\Payload Factory\DLLProcessHollowing\bin\x64\Release\DLLProcessHollowing.pdb
+C:\Users\georg\Desktop\OSEP\Payload Factory\DLLProcessHollowing\obj\x64\Release\DLLProcessHollowing.dll
+C:\Users\georg\Desktop\OSEP\Payload Factory\DLLProcessHollowing\obj\x64\Release\DLLProcessHollowing.pdb
+C:\Users\georg\Desktop\Payload Factory\DLLProcessHollowing\bin\x64\Release\DLLProcessHollowing.dll
+C:\Users\georg\Desktop\Payload Factory\DLLProcessHollowing\bin\x64\Release\DLLProcessHollowing.pdb
+C:\Users\georg\Desktop\Payload Factory\DLLProcessHollowing\obj\x64\Release\DLLProcessHollowing.csproj.CoreCompileInputs.cache
+C:\Users\georg\Desktop\Payload Factory\DLLProcessHollowing\obj\x64\Release\DLLProcessHollowing.dll
+C:\Users\georg\Desktop\Payload Factory\DLLProcessHollowing\obj\x64\Release\DLLProcessHollowing.pdb

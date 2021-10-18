@@ -1,0 +1,32 @@
+C:\Users\georg\Desktop\Hell\Payloads - Yiannis\Payload\DynamicProcessInjection\bin\x64\Release\DynamicProcessInjection.exe.config
+C:\Users\georg\Desktop\Hell\Payloads - Yiannis\Payload\DynamicProcessInjection\bin\x64\Release\DynamicProcessInjection.exe
+C:\Users\georg\Desktop\Hell\Payloads - Yiannis\Payload\DynamicProcessInjection\bin\x64\Release\DynamicProcessInjection.pdb
+C:\Users\georg\Desktop\Hell\Payloads - Yiannis\Payload\DynamicProcessInjection\obj\x64\Release\DynamicProcessInjection.csproj.CoreCompileInputs.cache
+C:\Users\georg\Desktop\Hell\Payloads - Yiannis\Payload\DynamicProcessInjection\obj\x64\Release\DynamicProcessInjection.exe
+C:\Users\georg\Desktop\Hell\Payloads - Yiannis\Payload\DynamicProcessInjection\obj\x64\Release\DynamicProcessInjection.pdb
+C:\Users\georg\Desktop\Hell\Payloads - Yiannis\Payload\DynamicProcessInjection\obj\x64\Release\DynamicProcessInjection.csproj.AssemblyReference.cache
+C:\Users\georg\Desktop\Hell\Payload FACTORY\Payload\DynamicProcessInjection\bin\x64\Release\DynamicProcessInjection.exe.config
+C:\Users\georg\Desktop\Hell\Payload FACTORY\Payload\DynamicProcessInjection\bin\x64\Release\DynamicProcessInjection.exe
+C:\Users\georg\Desktop\Hell\Payload FACTORY\Payload\DynamicProcessInjection\bin\x64\Release\DynamicProcessInjection.pdb
+C:\Users\georg\Desktop\Hell\Payload FACTORY\Payload\DynamicProcessInjection\obj\x64\Release\DynamicProcessInjection.csproj.AssemblyReference.cache
+C:\Users\georg\Desktop\Hell\Payload FACTORY\Payload\DynamicProcessInjection\obj\x64\Release\DynamicProcessInjection.csproj.CoreCompileInputs.cache
+C:\Users\georg\Desktop\Hell\Payload FACTORY\Payload\DynamicProcessInjection\obj\x64\Release\DynamicProcessInjection.exe
+C:\Users\georg\Desktop\Hell\Payload FACTORY\Payload\DynamicProcessInjection\obj\x64\Release\DynamicProcessInjection.pdb
+C:\Users\georg\Desktop\Hell\OSEP\Payload\DynamicProcessInjection\bin\x64\Release\DynamicProcessInjection.exe.config
+C:\Users\georg\Desktop\Hell\OSEP\Payload\DynamicProcessInjection\bin\x64\Release\DynamicProcessInjection.exe
+C:\Users\georg\Desktop\Hell\OSEP\Payload\DynamicProcessInjection\bin\x64\Release\DynamicProcessInjection.pdb
+C:\Users\georg\Desktop\Hell\OSEP\Payload\DynamicProcessInjection\obj\x64\Release\DynamicProcessInjection.csproj.CoreCompileInputs.cache
+C:\Users\georg\Desktop\Hell\OSEP\Payload\DynamicProcessInjection\obj\x64\Release\DynamicProcessInjection.exe
+C:\Users\georg\Desktop\Hell\OSEP\Payload\DynamicProcessInjection\obj\x64\Release\DynamicProcessInjection.pdb
+C:\Users\georg\Desktop\OSEP\Payload Factory\DynamicProcessInjection\bin\x64\Release\DynamicProcessInjection.exe.config
+C:\Users\georg\Desktop\OSEP\Payload Factory\DynamicProcessInjection\bin\x64\Release\DynamicProcessInjection.exe
+C:\Users\georg\Desktop\OSEP\Payload Factory\DynamicProcessInjection\bin\x64\Release\DynamicProcessInjection.pdb
+C:\Users\georg\Desktop\OSEP\Payload Factory\DynamicProcessInjection\obj\x64\Release\DynamicProcessInjection.csproj.CoreCompileInputs.cache
+C:\Users\georg\Desktop\OSEP\Payload Factory\DynamicProcessInjection\obj\x64\Release\DynamicProcessInjection.exe
+C:\Users\georg\Desktop\OSEP\Payload Factory\DynamicProcessInjection\obj\x64\Release\DynamicProcessInjection.pdb
+C:\Users\georg\Desktop\Payload Factory\DynamicProcessInjection\bin\x64\Release\DynamicProcessInjection.exe.config
+C:\Users\georg\Desktop\Payload Factory\DynamicProcessInjection\bin\x64\Release\DynamicProcessInjection.exe
+C:\Users\georg\Desktop\Payload Factory\DynamicProcessInjection\bin\x64\Release\DynamicProcessInjection.pdb
+C:\Users\georg\Desktop\Payload Factory\DynamicProcessInjection\obj\x64\Release\DynamicProcessInjection.csproj.CoreCompileInputs.cache
+C:\Users\georg\Desktop\Payload Factory\DynamicProcessInjection\obj\x64\Release\DynamicProcessInjection.exe
+C:\Users\georg\Desktop\Payload Factory\DynamicProcessInjection\obj\x64\Release\DynamicProcessInjection.pdb

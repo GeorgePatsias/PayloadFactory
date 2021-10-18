@@ -1,0 +1,20 @@
+C:\Users\georg\Desktop\Hell\Payloads - Yiannis\Payload\ProcessHollowing\bin\x64\Release\ProcessHollowing.exe.config
+C:\Users\georg\Desktop\Hell\Payloads - Yiannis\Payload\ProcessHollowing\bin\x64\Release\ProcessHollowing.exe
+C:\Users\georg\Desktop\Hell\Payloads - Yiannis\Payload\ProcessHollowing\bin\x64\Release\ProcessHollowing.pdb
+C:\Users\georg\Desktop\Hell\Payloads - Yiannis\Payload\ProcessHollowing\obj\x64\Release\ProcessHollowing.csproj.CoreCompileInputs.cache
+C:\Users\georg\Desktop\Hell\Payloads - Yiannis\Payload\ProcessHollowing\obj\x64\Release\ProcessHollowing.exe
+C:\Users\georg\Desktop\Hell\Payloads - Yiannis\Payload\ProcessHollowing\obj\x64\Release\ProcessHollowing.pdb
+C:\Users\georg\Desktop\Hell\Payloads - Yiannis\Payload\ProcessHollowing\obj\x64\Release\ProcessHollowing.csproj.AssemblyReference.cache
+C:\Users\georg\Desktop\Hell\Payload FACTORY\Payload\ProcessHollowing\bin\x64\Release\ProcessHollowing.exe.config
+C:\Users\georg\Desktop\Hell\Payload FACTORY\Payload\ProcessHollowing\bin\x64\Release\ProcessHollowing.exe
+C:\Users\georg\Desktop\Hell\Payload FACTORY\Payload\ProcessHollowing\bin\x64\Release\ProcessHollowing.pdb
+C:\Users\georg\Desktop\Hell\Payload FACTORY\Payload\ProcessHollowing\obj\x64\Release\ProcessHollowing.csproj.AssemblyReference.cache
+C:\Users\georg\Desktop\Hell\Payload FACTORY\Payload\ProcessHollowing\obj\x64\Release\ProcessHollowing.csproj.CoreCompileInputs.cache
+C:\Users\georg\Desktop\Hell\Payload FACTORY\Payload\ProcessHollowing\obj\x64\Release\ProcessHollowing.exe
+C:\Users\georg\Desktop\Hell\Payload FACTORY\Payload\ProcessHollowing\obj\x64\Release\ProcessHollowing.pdb
+C:\Users\georg\Desktop\Hell\OSEP\Payload\ProcessHollowing\bin\x64\Release\ProcessHollowing.exe.config
+C:\Users\georg\Desktop\Hell\OSEP\Payload\ProcessHollowing\bin\x64\Release\ProcessHollowing.exe
+C:\Users\georg\Desktop\Hell\OSEP\Payload\ProcessHollowing\bin\x64\Release\ProcessHollowing.pdb
+C:\Users\georg\Desktop\Hell\OSEP\Payload\ProcessHollowing\obj\x64\Release\ProcessHollowing.csproj.CoreCompileInputs.cache
+C:\Users\georg\Desktop\Hell\OSEP\Payload\ProcessHollowing\obj\x64\Release\ProcessHollowing.exe
+C:\Users\georg\Desktop\Hell\OSEP\Payload\ProcessHollowing\obj\x64\Release\ProcessHollowing.pdb

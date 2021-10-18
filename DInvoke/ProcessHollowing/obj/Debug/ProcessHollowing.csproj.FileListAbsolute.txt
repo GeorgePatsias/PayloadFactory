@@ -1,0 +1,7 @@
+C:\Users\georg\Desktop\Hell\Payloads - Yiannis\Payload\ProcessHollowing\bin\Debug\ProcessHollowing.exe.config
+C:\Users\georg\Desktop\Hell\Payloads - Yiannis\Payload\ProcessHollowing\bin\Debug\ProcessHollowing.exe
+C:\Users\georg\Desktop\Hell\Payloads - Yiannis\Payload\ProcessHollowing\bin\Debug\ProcessHollowing.pdb
+C:\Users\georg\Desktop\Hell\Payloads - Yiannis\Payload\ProcessHollowing\obj\Debug\ProcessHollowing.csproj.AssemblyReference.cache
+C:\Users\georg\Desktop\Hell\Payloads - Yiannis\Payload\ProcessHollowing\obj\Debug\ProcessHollowing.csproj.CoreCompileInputs.cache
+C:\Users\georg\Desktop\Hell\Payloads - Yiannis\Payload\ProcessHollowing\obj\Debug\ProcessHollowing.exe
+C:\Users\georg\Desktop\Hell\Payloads - Yiannis\Payload\ProcessHollowing\obj\Debug\ProcessHollowing.pdb
