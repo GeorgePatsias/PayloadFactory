@@ -2,8 +2,9 @@
 This project is about different malware development techniques for AV and Defense evasion using C#.
 
 API calling methodologies using:
-* PInvoke (Platform Invoke) [https://www.pinvoke.net/](https://www.pinvoke.net)
-* DInvoke (Dynamic Invoke) [https://thewover.github.io/Dynamic-Invoke/](https://thewover.github.io/Dynamic-Invoke)
+* PInvoke (Platform Invoke) [https://www.pinvoke.net/](https://www.pinvoke.net). Calling Win32 and other unmanaged APIs from managed code.
+
+* DInvoke (Dynamic Invoke) [https://thewover.github.io/Dynamic-Invoke/](https://thewover.github.io/Dynamic-Invoke). Dynamically invoke unmanaged code from memory or disk while avoiding API Hooking, suspicious imports and having an Import table in the payload, evading EDR and AV scan interfaces.
 
 ## 🧬⚗️ Techniques
 
