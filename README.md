@@ -29,3 +29,7 @@ API calling methodologies using:
 git clone https://github.com/GeorgePatsias/PayloadFactory.git
 ```
 ### Open `Payload.sln` with Visual Studio and compile for a `x64` bit architecture.
+
+## References
+* [https://github.com/TheWover/DInvoke](https://github.com/TheWover/DInvoke)
+* [https://github.com/dotnet/pinvoke](https://github.com/dotnet/pinvoke)
