@@ -21,7 +21,7 @@ API calling methodologies using:
 
 ## 🔐 Encryption
 * AES (Advanced Encryption Standard)
-* XOR (Exclusive Or)
+* XOR (Exclusive OR)
 * Caesar Cipher
 
 ## 📥 Clone the Project
